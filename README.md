@@ -5,7 +5,7 @@ Este é um repositório público contendo o material relativo ao projeto final d
 
 Você pode usar o material com a finalidade de estudo, mas é PROIBIDO distribuir, modificar ou o uso comercial deste material sem o consentimento do grupo WoMakersCode. Para maiores informações visite o site ou contate: contato@womakerscode.org
 
-Somos integrantes do grupo 5, denominado também por grupo Lovelace, em homenagem a [Ada Lovelace](https://pt.wikipedia.org/wiki/Ada_Lovelace), uma íncrível mulher na área da matemática e computação.
+Somos integrantes do grupo 5, denominado também por grupo Lovelace, em homenagem a [Ada Lovelace](https://pt.wikipedia.org/wiki/Ada_Lovelace), uma incrível mulher na área da matemática e computação.
 
 No projeto final, iremos analisar dados referentes à competição do [Kaggle](https://www.kaggle.com/datasnaek/youtube-new) sobre tendências dos vídeos na plataforma Youtube.
 
