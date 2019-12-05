@@ -13,12 +13,16 @@ No projeto final, iremos analisar dados referentes à competição do [Kaggle](h
 ### Check points online
 
 03/12:
-- Limpeza dos dados
+- Análise exploratória dos dados 
+   - Definição do DS - USA para análise e resolução do desafio, 
+   - limpeza dos dados, 
+   - análise dos principais aspectos que impactam popularidade do video (Categorias, Popularidade por ano, popularidade por like, deslikes, comentários, por canais, por horário/dia da semana, principais palavras utilizadas em títulos)
+
+
+07/12
 - Seleção das features mais importantes, definição da feature target
 - Análise estatística das features
 - Escolha e resultados preliminares dos potenciais algoritmos (clustering, classificadores, regressão)
-
-07/12
 
 10/12
 
