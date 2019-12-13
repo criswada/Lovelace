@@ -26,9 +26,6 @@ No projeto final, iremos analisar dados referentes à competição do [Kaggle](h
 
 10/12
 - Análise de sentimentos
-- Análise exploratória no dataset da Grã Bretanha
-- Regressão no dataset da Grã Bretanha
-- Visualização HTML na análise da Grã-Bretanha 
 - NLP com clusterização nas features textuais no dataset US
 - Modelo ARIMA para predição de likes no dataset US
 
