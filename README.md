@@ -7,6 +7,11 @@ Você pode usar o material com a finalidade de estudo, mas é PROIBIDO distribui
 
 Somos integrantes do grupo 5, denominado também por grupo Lovelace, em homenagem a [Ada Lovelace](https://pt.wikipedia.org/wiki/Ada_Lovelace), uma incrível mulher na área da matemática e computação.
 
+Integrantes:
+@criswada
+@gisrodri
+@miziaalmeida
+
 No projeto final, iremos analisar dados referentes à competição do [Kaggle](https://www.kaggle.com/datasnaek/youtube-new) sobre tendências dos vídeos na plataforma Youtube.
 
 
