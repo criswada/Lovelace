@@ -4,3 +4,5 @@ A fim de reproduzir os códigos faça dowload dos datasets pelo Kaggle https://w
 
 - USvideos.csv
 - US_category_id.json
+- GBvideos.csv
+- GB_category_id.json
