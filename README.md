@@ -33,3 +33,7 @@ No projeto final, iremos analisar dados referentes à competição do [Kaggle](h
 - Modelo ARIMA para predição de likes no dataset US
 
 12/12
+- Limpeza e organização dos códigos
+- Elaboração das análises finais dos resultados e documentação
+- Atualização do repositório git
+
