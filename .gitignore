@@ -1,5 +1,5 @@
 # Ignore folder 'datasets' 
-datasets/ 
+#datasets/ 
 
 # Ignore .csv files
-*.csv
+#*.csv
