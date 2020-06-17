@@ -9,11 +9,11 @@ Somos integrantes do grupo 5, denominado também por grupo Lovelace, em homenage
 
 Integrantes:
 
-[github] (https://github.com/criswada) [linkedin](https://www.linkedin.com/in/cristina-wada)
+- Cristina Wada: [github](https://github.com/criswada) [linkedin](https://www.linkedin.com/in/cristina-wada)
 
-[github] (https://github.com/gisrodri) [linkedin] (https://www.linkedin.com/in/giselirodrigues)
+- Giseli Rodrigues: [github](https://github.com/gisrodri) [linkedin](https://www.linkedin.com/in/giselirodrigues)
 
-[github] @miziaalmeida (https://github.com/miziaalmeida) [linkedin] (https://www.linkedin.com/in/miziasalima)
+- Mízia Lima: [github](https://github.com/miziaalmeida) [linkedin](https://www.linkedin.com/in/miziasalima)
 
 No projeto final, iremos analisar dados referentes à competição do [Kaggle](https://www.kaggle.com/datasnaek/youtube-new) sobre tendências dos vídeos na plataforma Youtube.
 
